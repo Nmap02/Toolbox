@@ -38,7 +38,7 @@
 
 ## IMAGES
 
- - [iLoveIMG](https://www.iloveimg.com/) Every tool you could want to edit images in bulk/
+ - [iLoveIMG](https://www.iloveimg.com/) Every tool you could want to edit images in bulk.
 
 ## CODE FORMATTER
 
