@@ -1,5 +1,3 @@
-1.0.0
-
 # Welcome to my Web Toolbox
 
 > My main goal is to make life easier for myself and other users who are
@@ -38,7 +36,7 @@
 
 ## IMAGES
 
- - [iLoveIMG](https://www.iloveimg.com/) Every tool you could want to edit images in bulk.
+ - [iLoveIMG](https://www.iloveimg.com/) Every tool you could want to edit images in bulk/
 
 ## CODE FORMATTER
 
@@ -47,3 +45,7 @@
 ## PASSWORD GENERATOR
 
  - [Password Generator Plus](https://passwordsgenerator.net/) The ultimate password generator that exists.
+
+## ONLINE CODE EDITOR
+
+ - [StackEdit](https://stackedit.io/) In-browser Markdown editor.
